@@ -44,4 +44,8 @@ Briefly get started to Statistical Learning
 3. regression = predict quantitative outputs
    classification = predict qualitative outputs
 
-4. Linear Model 
+4. Linear Model  
+    $$\hat{Y} = \hat{\beta_0} + \sum_{j=1}^p X_j \hat{\beta_j}$$   
+    $$RSS(\beta) = \sum_{i=1}^N (y_i - x_i^T \beta)^2$$
+5. Nearest-Neighbor Method
+   $$\hat(Y)(x) = \frac{1}{k} \sum_{x_i \in N_k(x)} y_i$$
