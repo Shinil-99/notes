@@ -25,3 +25,23 @@ elements：统计、机器学习、数据库的应用
 大量具有标签的训练数据的获取代价有时候很高，如何直接通过不带标签的数据进行学习是一个难点。对于传统深度学习进行改进的强化学习，在不同的网络结构中各自的特点和应用也不同。
 
 处理数据、选择优化函数、数据模型压缩以及如何利用现有的预训练模型，都是进一步提高学习能力的突破口。目前深度学习的流行方向在于生成对抗网络，这一点在许多领域的动态数据学习中都有所应用。
+
+# Title: The Elements of Statistical Learning: Data Ming, Inference and Prediction
+
+Briefly get started to Statistical Learning 
+
+### Chap1 Introduction
+
+1. supervised & unsupervised learning problem
+2. Examples used statistical learning tools
+3. Chap1-4&7 are mandatory for concepts definitions. In this book they use R as programming language.
+
+### Chap2 Overview of Supervised Learning
+
+1. input, output, and their meanings in supervised learning
+2. input = predictor (statistical context) = independent variable = feature (recognition context)
+    output = response = dependent variable
+3. regression = predict quantitative outputs
+   classification = predict qualitative outputs
+
+4. Linear Model 
