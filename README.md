@@ -6,5 +6,5 @@ Shinil，数学菜鸟罢了
 
 目前为了进学和记录生活，只有有以下文档：
 
-[rookie.md](/入门/rookie.md)  
+[rookie](/入门/rookie.md)  
 [おかしいはなし](urouro/okashiihanashi.md)

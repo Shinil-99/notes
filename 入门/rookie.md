@@ -49,3 +49,5 @@ Briefly get started to Statistical Learning
     $$RSS(\beta) = \sum_{i=1}^N (y_i - x_i^T \beta)^2$$
 5. Nearest-Neighbor Method
    $$\hat(Y)(x) = \frac{1}{k} \sum_{x_i \in N_k(x)} y_i$$
+
+*之后的内容尽可能略去数学的部分，着重在名词解释和通用知识*
