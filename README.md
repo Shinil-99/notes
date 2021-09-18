@@ -8,3 +8,12 @@ Shinil，数学菜鸟罢了
 
 [rookie](/入门/rookie.md)  
 [おかしいはなし](urouro/okashiihanashi.md)
+
+##### 2021.09.18
+
+本GitHub账号将用作文件下载，日记及学习笔记部分将不再进行更新。
+
+与在南开娇生惯养浑浑噩噩的自己说声再见。
+
+Shenyi
+
